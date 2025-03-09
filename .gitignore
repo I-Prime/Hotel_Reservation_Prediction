@@ -1,5 +1,9 @@
 venv/
 logs/
+<<<<<<< HEAD
 *.log
 mlruns/
 MLOPS_PROJECT_1.egg-info/
+=======
+*.log
+>>>>>>> 957027571eee383ea6b4e2dc64736d56ae57286c
